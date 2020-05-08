@@ -2,15 +2,45 @@
   "Departments": [
     {
       "id": "1",
-      "name": "MUJ_IT"
+      "name": "MUJ_IT",
+      "resources": [
+        {
+          "id": "1",
+          "name": "Projector"
+        },
+        {
+          "id": "2",
+          "name": "Pointer"
+        }
+      ]
     },
     {
       "id": "2",
-      "name": "MUJ_INFRA"
+      "name": "MUJ_INFRA",
+      "resources": [
+        {
+          "id": "1",
+          "name": "Chair"
+        },
+        {
+          "id": "2",
+          "name": "Table"
+        }
+      ]
     },
     {
       "id": "3",
-      "name": "MUJ_CRAZY_CHEF"
+      "name": "MUJ_CRAZY_CHEF",
+      "resources": [
+        {
+          "id": "1",
+          "name": "Food"
+        },
+        {
+          "id": "2",
+          "name": "Water"
+        }
+      ]
     }
   ]
 }
