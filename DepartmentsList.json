@@ -1,0 +1,16 @@
+{
+  "Departments": [
+    {
+      "id": "1",
+      "name": "MUJ_IT"
+    },
+    {
+      "id": "2",
+      "name": "MUJ_INFRA"
+    },
+    {
+      "id": "3",
+      "name": "MUJ_CRAZY_CHEF"
+    }
+  ]
+}
